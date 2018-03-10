@@ -4,9 +4,6 @@
 - `React-router` (SPA)
 - `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
 
-##### installation
-`cd desktop` && `git clone https://github.com/hypotenuse/react-examples.git` && `cd react-examples` && `npm install`
-
 ## ReactRedux
 - `React` (as a library)
 - `Redux`
@@ -37,3 +34,10 @@
   - Generate HTML automatically + template
   - `core-js` to polyfill ES5 / ES6 / ES7+ (on demand)
   - Bunch or useful plugins to improve Webpack bundling
+
+
+##### install
+`cd desktop && git clone https://github.com/hypotenuse/react-examples.git && cd react-examples/(react/reactredux/reactreduxadvanced) && npm install`
+##### run
+`npm run dev` (run in development mode)
+`npm run prod` (run in production mode)
