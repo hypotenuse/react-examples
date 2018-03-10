@@ -1,11 +1,11 @@
 
-React
+## React
 - `React` (as a library)
 - `React-router` (SPA)
 - `Webpack` (`webpack-dev-server`, jsx -> js)
---
 
-ReactRedux
+
+## ReactRedux
 - `React` (as a library)
 - `Redux`
   - Predictable state container. Store data globally in SPA
@@ -14,7 +14,8 @@ ReactRedux
 - No routing
 - `Webpack` (`webpack-dev-server`, jsx -> js)
 
-ReactReduxAdvanced
+
+## ReactReduxAdvanced
 - `React` (as a library)
 - `Redux`
   - Predictable state container. Store data globally in SPA.
