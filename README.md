@@ -36,8 +36,5 @@
   - Bunch or useful plugins to improve Webpack bundling
 
 
-##### install
-`cd desktop && git clone https://github.com/hypotenuse/react-examples.git && cd react-examples/(react/reactredux/reactreduxadvanced) && npm install`
-##### run
-`npm run dev` (run in development mode)
-`npm run prod` (run in production mode)
+## Install & Run
+`cd desktop && git clone https://github.com/hypotenuse/react-examples.git && cd react-examples/react|reactredux|reactreduxadvanced && npm install && npm run dev|prod`
