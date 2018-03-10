@@ -30,7 +30,7 @@
   - `css-loader` will automatically use `file-loader` to move assets from css to /dist/ and resolve url(...)
   - `source-maps` to improve debuging
   - development / production mods
-  - Minimization (via `webpack.optimize.UglifyJsPlugin` for js + HTML + css)
+  - Minimization (via `webpack.optimize.UglifyJsPlugin` for js, `html-webpack-plugin` for HTML, `css-loader` for css)
   - Generate HTML automatically + template
   - `core-js` to polyfill ES5 / ES6 / ES7+ (on demand)
   - Bunch or useful plugins to improve Webpack bundling
