@@ -3,7 +3,7 @@
 - `React` (as a library)
 - `React-router` (SPA)
 - `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
-#### installation: `cd desktop` && `git clone https://github.com/hypotenuse/react-examples.git` && `cd react-examples` && `npm install`
+##### installation: `cd desktop` && `git clone https://github.com/hypotenuse/react-examples.git` && `cd react-examples` && `npm install`
 
 ## ReactRedux
 - `React` (as a library)
