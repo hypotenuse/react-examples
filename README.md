@@ -2,7 +2,7 @@
 ## React
 - `React` (as a library)
 - `React-router` (SPA)
-- `Webpack` (`webpack-dev-server`, jsx -> js)
+- `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
 
 
 ## ReactRedux
@@ -12,7 +12,7 @@
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
 - No routing
-- `Webpack` (`webpack-dev-server`, jsx -> js)
+- `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
 
 
 ## ReactReduxAdvanced
