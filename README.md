@@ -21,6 +21,7 @@
   - Predictable state container. Store some data globally in SPA if needed
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
+  - `react-thunk` to allow dispatch thunks (functions / async action creators)
 - `React-router` (SPA)
 - `Webpack`
   - `webpack-dev-server`
