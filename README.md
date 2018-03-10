@@ -1,27 +1,27 @@
 
-`React`
-- React (as a library)
-- React-router (SPA)
-- Webpack (webpack-dev-server, jsx -> js)
+React
+- `React` (as a library)
+- `React-router` (SPA)
+- `Webpack` (`webpack-dev-server`, jsx -> js)
 
-`ReactRedux`
-- React (as a library)
-- Redux
+ReactRedux
+- `React` (as a library)
+- `Redux`
   - Predictable state container. Store data globally in SPA
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
 - No routing
-- Webpack (webpack-dev-server, jsx -> js)
+- `Webpack` (`webpack-dev-server`, jsx -> js)
 
-`ReactReduxAdvanced`
-- React (as a library)
-- Redux 
+ReactReduxAdvanced
+- `React` (as a library)
+- `Redux`
   - Predictable state container. Store data globally in SPA.
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
-- React-router (SPA)
-- Webpack
-  - webpack-dev-server
+- `React-router` (SPA)
+- `Webpack`
+  - `webpack-dev-server`
   - jsx -> js
   - scss -> css + autoprefixer
   - `file-loader` to rename and move assets to /dist/
