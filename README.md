@@ -8,7 +8,7 @@
 ## ReactRedux
 - `React` (as a library)
 - `Redux`
-  - Predictable state container. Store data globally in SPA
+  - Predictable state container. Store some data globally in SPA if needed
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
 - No routing
@@ -18,7 +18,7 @@
 ## ReactReduxAdvanced
 - `React` (as a library)
 - `Redux`
-  - Predictable state container. Store data globally in SPA.
+  - Predictable state container. Store some data globally in SPA if needed
   - `immutable` helps to write reducers simplier
   - `react-redux` to bind storage to components
 - `React-router` (SPA)
