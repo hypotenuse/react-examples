@@ -1,0 +1,25 @@
+
+.index__section-header {
+	
+	.react-logo, .react-redux-logo {
+		width: 100px;
+		height: 100px;
+		margin: 21px;
+		border: 0px solid black;
+		background-size: 100% auto;
+		background-repeat: no-repeat;
+	}
+	
+	.react-logo { 
+		background-image: url(../images/react-logo.png);
+		background-position: 50% 50%;
+		background-size: 112% auto;
+	}
+	.react-redux-logo { background-image: url(../images/react-redux-logo.png) }
+
+	> * {
+		display: inline-block;
+		vertical-align: middle
+	}
+
+}

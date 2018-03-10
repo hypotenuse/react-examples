@@ -1,0 +1,28 @@
+
+.reddit__section-content {
+
+	user-select: none;
+
+	.posts {
+
+		ul {padding: 0}
+
+		li {
+			width: 220px;
+			display: inline-block;
+			vertical-align: top;
+			padding: 15px 15px;
+			margin: 15px 0 15px 0;
+			list-style: none;
+			cursor: pointer;
+			color: black;
+
+			&:hover {
+				background-color: #fefefe;
+				outline: 2px #eaeaea solid;
+				padding: 15px 15px;
+			}
+		}
+	}
+
+}

@@ -1,0 +1,45 @@
+{
+  "name": "ReactReduxApp",
+  "description": "A React application using Redux & React Router & Redux async action creators",
+  "version": "1.0.1",
+  "author": "Ivan Groznyi",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --open --env development --define process.env.NODE_ENV='production'",
+    "prod": "webpack --env production --define process.env.NODE_ENV='production'"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "core-js": "^2.5.3",
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "url-search-params": "^0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.16.0",
+    "clean-webpack-plugin": "^0.1.18",
+    "css-loader": "^0.28.10",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.9",
+    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-scripts-plugin": "^1.0.2",
+    "html-webpack-template": "^6.1.0",
+    "node-sass": "^4.7.2",
+    "postcss-loader": "^2.1.1",
+    "sass-loader": "^6.0.6",
+    "script-ext-html-webpack-plugin": "^1.8.8",
+    "style-loader": "^0.20.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-merge": "^4.1.2"
+  }
+}
