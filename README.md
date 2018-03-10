@@ -24,7 +24,7 @@
 - `React-router` (SPA)
 - `Webpack`
   - `webpack-dev-server`
-  - `JSX` -> `JS`, `ES6+` -> `ES5` via `babel` & `babel-loader`
+  - `jsx` -> `js`, `ES6+` -> `ES5` via `babel` & `babel-loader`
   - `scss` -> `css` + `autoprefixer`
   - `file-loader` to rename and move assets to /dist/
   - `css-loader` will automatically use `file-loader` to move assets from css to /dist/ and resolve url(...)
