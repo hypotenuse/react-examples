@@ -37,8 +37,8 @@
 
 
 ## Install & Run
-`cd desktop`
-`git clone https://github.com/hypotenuse/react-examples.git`
-`cd react-examples/react|reactredux|reactreduxadvanced`
-`npm install`
+`cd desktop` -> 
+`git clone https://github.com/hypotenuse/react-examples.git` -> 
+`cd react-examples/react|reactredux|reactreduxadvanced` -> 
+`npm install` -> 
 `npm run dev|prod`
