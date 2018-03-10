@@ -1,10 +1,10 @@
 
-## React
+### React
 - `React` (as a library)
 - `React-router` (SPA)
 - `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
 
-## ReactRedux
+### ReactRedux
 - `React` (as a library)
 - `Redux`
   - Predictable state container. Store some data globally in SPA if needed
@@ -14,7 +14,7 @@
 - `Webpack` (`webpack-dev-server`, `jsx` -> `js`)
 
 
-## ReactReduxAdvanced
+### ReactReduxAdvanced
 - `React` (as a library)
 - `Redux`
   - Predictable state container. Store some data globally in SPA if needed
@@ -36,5 +36,5 @@
   - Bunch or useful plugins to improve Webpack bundling
 
 
-## Install & Run
-`cd desktop && git clone https://github.com/hypotenuse/react-examples.git && cd react-examples/react|reactredux|reactreduxadvanced && npm install && npm run dev|prod`
+### Install & Run
+`cd desktop` `git clone https://github.com/hypotenuse/react-examples.git` `cd react-examples/react|reactredux|reactreduxadvanced` `npm install` `npm run dev|prod`
